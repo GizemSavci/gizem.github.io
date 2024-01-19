@@ -2,121 +2,121 @@
     {
         "timestamp": "new Date().getTime()",
         "date": "new Date()",
-        "baseCurrency": "Danish Krone",
+        "baseCurrency": "DKK",
         "rates": {
-            "Danish Krone": 1,
-            "Euro": 0.13,
-            "Dollar": 0.15,
-            "Swedish Krone": 1.5,
-            "Norwegian Krone": 1.52,
-            "Swiss Frank": 0.13,
-            "Pound Sterling": 0.12,
-            "Turkish Lira": 4.42
+            "DKK": 1,
+            "EUR": 0.13,
+            "USD": 0.15,
+            "SEK": 1.5,
+            "NOK": 1.52,
+            "CHF": 0.13,
+            "GBP": 0.12,
+            "TL": 4.42
         }
     },
     {
         "timestamp": "new Date().getTime()",
         "date": "new Date()",
-        "baseCurrency": "Euro",
+        "baseCurrency": "EUR",
         "rates": {
-            "Danish Krone": 7.46,
-            "Euro": 1,
-            "Dollar": 1.1,
-            "Swedish Krone": 11.15,
-            "Norwegian Krone": 12.27,
-            "Swiss Frank": 0.93,
-            "Pound Sterling": 0.86,
-            "Turkish Lira": 33.01
+            "DKK": 7.46,
+            "EUR": 1,
+            "USD": 1.1,
+            "SEK": 11.15,
+            "NOK": 12.27,
+            "CHF": 0.93,
+            "GBP": 0.86,
+            "TL": 33.01
         }
     },
     {
         "timestamp": "new Date().getTime()",
         "date": "new Date()",
-        "baseCurrency": "Dollar",
+        "baseCurrency": "USD",
         "rates": {
-            "Danish Krone": 6.81,
-            "Euro": 0.91,
-            "Dollar": 1,
-            "Swedish Krone": 10.2,
-            "Norwegian Krone": 10.34,
-            "Swiss Frank": 0.85,
-            "Pound Sterling": 0.78,
-            "Turkish Lira": 30.1
+            "DKK": 6.81,
+            "EUR": 0.91,
+            "USD": 1,
+            "SEK": 10.2,
+            "NOK": 10.34,
+            "CHF": 0.85,
+            "GBP": 0.78,
+            "TL": 30.1
         }
     },
     {
         "timestamp": "new Date().getTime()",
         "date": "new Date()",
-        "baseCurrency": "Swedish Krone",
+        "baseCurrency": "SEK",
         "rates": {
-            "Danish Krone": 0.67,
-            "Euro": 0.09,
-            "Dollar": 0.10,
-            "Swedish Krone": 1,
-            "Norwegian Krone": 1.01,
-            "Swiss Frank": 0.08,
-            "Pound Sterling": 0.07,
-            "Turkish Lira": 2.95
+            "DKK": 0.67,
+            "EUR": 0.09,
+            "USD": 0.10,
+            "SEK": 1,
+            "NOK": 1.01,
+            "CHF": 0.08,
+            "GBP": 0.07,
+            "TL": 2.95
         }
     },
     {
         "timestamp": "new Date().getTime()",
         "date": "new Date()",
-        "baseCurrency": "Norwegian Krone",
+        "baseCurrency": "NOK",
         "rates": {
-            "Danish Krone": 0.66,
-            "Euro": 0.10,
-            "Dollar": 0.10,
-            "Swedish Krone": 0.99,
-            "Norwegian Krone": 1,
-            "Swiss Frank": 0.09,
-            "Pound Sterling": 0.08,
-            "Turkish Lira": 2.92
+            "DKK": 0.66,
+            "EUR": 0.10,
+            "USD": 0.10,
+            "SEK": 0.99,
+            "NOK": 1,
+            "CHF": 0.09,
+            "GBP": 0.08,
+            "TL": 2.92
         }
     },
     {
         "timestamp": "new Date().getTime()",
         "date": "new Date()",
-        "baseCurrency": "Swiss Frank",
+        "baseCurrency": "CHF",
         "rates": {
-            "Danish Krone": 7.99,
-            "Euro": 1.07,
-            "Dollar": 1.17,
-            "Swedish Krone": 11.97,
-            "Norwegian Krone": 12.12,
-            "Swiss Frank": 1,
-            "Pound Sterling": 0.92,
-            "Turkish Lira": 35.30
+            "DKK": 7.99,
+            "EUR": 1.07,
+            "USD": 1.17,
+            "SEK": 11.97,
+            "NOK": 12.12,
+            "CHF": 1,
+            "GBP": 0.92,
+            "TL": 35.30
         }
     },
     {
         "timestamp": "new Date().getTime()",
         "date": "new Date()",
-        "baseCurrency": "Pound Sterling",
+        "baseCurrency": "GBP",
         "rates": {
-            "Danish Krone": 8.68,
-            "Euro": 1.16,
-            "Dollar": 1.27,
-            "Swedish Krone": 13.11,
-            "Norwegian Krone": 13.12,
-            "Swiss Frank": 1.09,
-            "Pound Sterling": 1,
-            "Turkish Lira": 38.39
+            "DKK": 8.68,
+            "EUR": 1.16,
+            "USD": 1.27,
+            "SEK": 13.11,
+            "NOK": 13.12,
+            "CHF": 1.09,
+            "GBP": 1,
+            "TL": 38.39
         }
     },
     {
         "timestamp": "new Date().getTime()",
         "date": "new Date()",
-        "baseCurrency": "Turkish Lira",
+        "baseCurrency": "TL",
         "rates": {
-            "Danish Krone": 0.23,
-            "Euro": 0.03,
-            "Dollar": 0.03,
-            "Swedish Krone": 0.34,
-            "Norwegian Krone": 0.34,
-            "Swiss Frank": 0.03,
-            "Pound Sterling": 0.03,
-            "Turkish Lira": 1
+            "DKK": 0.23,
+            "EUR": 0.03,
+            "USD": 0.03,
+            "SEK": 0.34,
+            "NOK": 0.34,
+            "CHF": 0.03,
+            "GBP": 0.03,
+            "TL": 1
         }
     }
 ]
