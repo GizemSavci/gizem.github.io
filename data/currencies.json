@@ -45,7 +45,7 @@
             "GBP": 0.78,
             "TL": 30.1
         },
-        "trending": "decreasing"
+        "trending": "increasing"
     },
     {
         "timestamp": "new Date().getTime()",
@@ -61,7 +61,7 @@
             "GBP": 0.07,
             "TL": 2.95
         },
-        "trending": "decreasing"
+        "trending": "increasing"
     },
     {
         "timestamp": "new Date().getTime()",
@@ -93,7 +93,7 @@
             "GBP": 0.92,
             "TL": 35.30
         },
-        "trending": "decreasing"
+        "trending": "increasing"
     },
     {
         "timestamp": "new Date().getTime()",
